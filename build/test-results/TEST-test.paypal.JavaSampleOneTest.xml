@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.paypal.JavaSampleOneTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-11-30T04:32:42" hostname="KMs-Macintosh.local" time="0.041">
+  <properties/>
+  <testcase name="testGetUserConsent" classname="test.paypal.JavaSampleOneTest" time="0.041"/>
+  <system-out><![CDATA[Do getUserConsent...
+https://www.sandbox.paypal.com/signin/authorize?client_id=ASxuFZqgFukPkB4jcZ8ISPQZO-oY08t3S_E2R2aP-xN0QBpopWx0QKutHxUJ5ZIDW8EXRkTIxgOFfoA6&response_type=code&scope=email+openid+&redirect_uri=https%3A%2F%2Flocalhost%3A8181%2Fs1%2FPaypalCallBack
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
